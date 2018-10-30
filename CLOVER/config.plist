@@ -284,20 +284,6 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change EC0 to EC</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					RUMwXw==
-					</data>
-					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
 					<string>change H_EC to EC</string>
 					<key>Disabled</key>
 					<true/>
@@ -368,20 +354,6 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change _BST to XBST</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X0JTVA==
-					</data>
-					<key>Replace</key>
-					<data>
-					WEJTVA==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
 					<string>change XHCI to XHC</string>
 					<key>Disabled</key>
 					<true/>
@@ -392,6 +364,48 @@
 					<key>Replace</key>
 					<data>
 					WEhDXw==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change EC0 to EC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					RUMwXw==
+					</data>
+					<key>Replace</key>
+					<data>
+					RUNfXw==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change _BIF to XBIF</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X0JJRg==
+					</data>
+					<key>Replace</key>
+					<data>
+					WEJJRg==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change _BST to XBST</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X0JTVA==
+					</data>
+					<key>Replace</key>
+					<data>
+					WEJTVA==
 					</data>
 				</dict>
 			</array>
