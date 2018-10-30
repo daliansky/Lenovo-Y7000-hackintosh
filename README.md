@@ -33,6 +33,18 @@
 6. 触摸板正常工作；
 7. USB端口采用SSDT-UIAC.aml进行修改；摄像头、读卡器已内建，避免睡眠问题；
 
+### EFI更新日志
+
+- 10-29-2018
+
+  - 项目建立
+
+- 10-30-2018
+
+  - 添加电池修复补丁
+
+  
+
 ## EFI更新源
 
 [https://github.com/daliansky/Lenovo-Y7000-hackintosh](https://github.com/daliansky/Lenovo-Y7000-hackintosh)
